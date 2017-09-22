@@ -1,0 +1,35 @@
+
+body{
+	padding-top: 70px;
+	background-color: #d5d5d5;
+}
+.navbar-inverse{
+	background-color: #ff3b3f;
+	color:white;
+	border:none;
+
+}
+h1{
+	font-size: 60px;
+	margin-top: -40px;
+}
+
+h2{
+text-align: center;
+}
+.caption{
+	text-align: center;
+}
+#contact{
+	font-size: 30px;
+	text-align: justify;
+}
+pre{
+	font-size: 20px;
+}
+.btn.btn-info{
+	background-color: #ff3b3f;
+	border: none;
+	 margin: 20px 250px 50px 20px ;
+}
+
