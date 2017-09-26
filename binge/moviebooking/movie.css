@@ -1,0 +1,17 @@
+body{
+	background-color: lightgrey;
+}
+
+.navbar{
+	background-color:black;
+	border: none;
+}
+.space{
+	margin-top: 60px;
+}
+.center{
+	margin-top: 30px;
+	margin-left:38%;
+	margin-right: 30%;
+	margin-bottom: 20px;
+}
